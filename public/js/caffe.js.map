@@ -1,0 +1,1 @@
+{"version":3,"sources":["caffe.coffee"],"names":[],"mappings":"AACA;EAAA,KAAA,CAAM,SAAA;WACJ,OAAO,CAAC,GAAR,CAAY,cAAZ;EADI,CAAN;AAAA","file":"caffe.js","sourcesContent":["#funzione per chiedere una pausa caffè\ncaffe ->\n  console.log 'pausa caffè?'"],"sourceRoot":"/source/"}

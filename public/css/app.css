@@ -1,0 +1,44 @@
+html, body {
+  height: 100%; }
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  font-weight: 100;
+  font-family: 'Lato'; }
+
+.container {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle; }
+
+.content {
+  text-align: center;
+  display: inline-block; }
+
+.title {
+  font-size: 96px;
+  margin-bottom: 20px;
+  width: 90%;
+  margin-left: 5%; }
+
+.seriousImages {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 90%;
+  margin-left: 5%;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around; }
+
+.seriousImages__item {
+  max-width: 25%; }
+  .seriousImages__item img {
+    margin-left: 5%;
+    width: 90%;
+    height: auto; }
+
+/*# sourceMappingURL=app.css.map */
